@@ -21,8 +21,11 @@ Installation et configuration d'un serveur et de clients VPN avec WireGuard.
 2.	Appuyer sur "Ajouter un tunnel vide..."
 ![Alt text](Captures/Capture2-2.bmp?raw=true)
 3.	Inscrire un nom pour l'interface (Sans caractères spéciaux ou espace)
+![Alt text](Captures/Capture2-3.bmp?raw=true)
 4.	Remplacer le contenu de la zone de texte par le contenu d'un fichier .conf
+![Alt text](Captures/Capture2-4.bmp?raw=true)
 5.	Appuyer sur "Enregistrer"
+![Alt text](Captures/Capture2-5.bmp?raw=true)
 6.	Passer à la section "Général"
 
 ### Général
