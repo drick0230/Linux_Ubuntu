@@ -1,10 +1,5 @@
-# WireGuard
-## Description
-Installation et configuration d'un serveur et de clients VPN avec WireGuard.
-
-## [Installation et configuration d'un client WireGuard sous Windows 10](README_CLIENT_WINDOWS10.md)
+# Installation et configuration d'un client WireGuard sous Windows 10
 *	L'application est téléchargeable via https://www.wireguard.com/install/.
-*	Il faut permettre les connexions entrante depuis l'adresse du VPN (Par défaut : 10.66.66.0/24) dans les règles entrantes du pare-feu.
 
 ### À partir d'un .conf
 1.	Mettre le fichier .conf dans un dossier sur la machine du client   
