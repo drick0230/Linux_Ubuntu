@@ -7,25 +7,33 @@ Installation et configuration d'un serveur et de clients VPN avec WireGuard.
 *	Il faut permettre les connexions entrante depuis l'adresse du VPN (Par défaut : 10.66.66.0/24) dans les règles entrantes du pare-feu.
 
 ### À partir d'un .conf
-1.	Mettre le fichier .conf dans un dossier sur la machine du client
+1.	Mettre le fichier .conf dans un dossier sur la machine du client   
 ![Alt text](Captures/Capture1-1.bmp?raw=true)
-2.	Appuyer sur "Ajouter le tunnel" en bas à gauche de l'application WireGuard
+
+2.	Appuyer sur "Ajouter le tunnel" en bas à gauche de l'application WireGuard   
 ![Alt text](Captures/Capture1-2.bmp?raw=true)
-3.	Sélectionner le fichier .conf
+
+3.	Sélectionner le fichier .conf   
 ![Alt text](Captures/Capture1-3.bmp?raw=true)
+
 4.	Passer à la section "Général"
 
 ### À partir du contenu d'un .conf
-1.	Appuyer sur la flêche à côté de "Ajouter le tunnel" en bas à gauche de l'application WireGuard
+1.	Appuyer sur la flêche à côté de "Ajouter le tunnel" en bas à gauche de l'application WireGuard   
 ![Alt text](Captures/Capture2-1.bmp?raw=true)
-2.	Appuyer sur "Ajouter un tunnel vide..."
+
+2.	Appuyer sur "Ajouter un tunnel vide..."   
 ![Alt text](Captures/Capture2-2.bmp?raw=true)
-3.	Inscrire un nom pour l'interface (Sans caractères spéciaux ou espace)
+
+3.	Inscrire un nom pour l'interface (Sans caractères spéciaux ou espace)   
 ![Alt text](Captures/Capture2-3.bmp?raw=true)
-4.	Remplacer le contenu de la zone de texte par le contenu d'un fichier .conf
+
+4.	Remplacer le contenu de la zone de texte par le contenu d'un fichier .conf   
 ![Alt text](Captures/Capture2-4.bmp?raw=true)
-5.	Appuyer sur "Enregistrer"
+
+5.	Appuyer sur "Enregistrer"   
 ![Alt text](Captures/Capture2-5.bmp?raw=true)
+
 6.	Passer à la section "Général"
 
 ### Général
