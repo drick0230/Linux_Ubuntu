@@ -8,9 +8,11 @@ Installation et configuration d'un serveur et de clients VPN avec WireGuard.
 
 ### À partir d'un .conf
 1.	Mettre le fichier .conf dans un dossier sur la machine du client
-![Alt text](/Captures/Capture1.bmp?raw=true "1.	Mettre le fichier .conf dans un dossier sur la machine du client")
+![Alt text](Captures/Capture1-1.bmp?raw=true)
 2.	Appuyer sur "Ajouter le tunnel" en bas à gauche de l'application WireGuard
+![Alt text](Captures/Capture1-2.bmp?raw=true)
 3.	Sélectionner le fichier .conf
+![Alt text](Captures/Capture1-3.bmp?raw=true)
 4.	Passer à la section "Général"
 
 ### À partir du contenu d'un .conf
