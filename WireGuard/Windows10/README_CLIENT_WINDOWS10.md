@@ -33,7 +33,7 @@
 
 ### Général
 1.	Dans l'onglet "Modifier", le trafic de votre réseau local peut être bloqué ou débloqué ("Bloquer tous le trafic hors tunnel (interrupteur)")
-2. 	[Configuration du pare-feu Windows 10 pour permettre les connexions entrantes depuis un VPN](Windows10/README_FIREWALL_WINDOWS10.md)
+2. 	[Configuration du pare-feu Windows 10 pour permettre les connexions entrantes depuis un VPN](README_FIREWALL_WINDOWS10.md)
 3.	Il suffit d'activer ou désactiver l'interface sur WireGuard pour se connecter ou se déconnecter du VPN
 	
 ## Problèmes
