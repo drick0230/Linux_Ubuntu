@@ -33,20 +33,7 @@
 
 ### Général
 1.	Dans l'onglet "Modifier", le trafic de votre réseau local peut être bloqué ou débloqué ("Bloquer tous le trafic hors tunnel (interrupteur)")
-2. 	Permettre les connexions entrante depuis les adresses du VPN (Par défaut : 10.66.66.0/24) dans le pare-feu
-	1.	Lancer l'application "Pare-feu Windows Defender avec fonctions avancées de sécurité"
-	2.	Appuyer sur "Règles de trafic entrant" en haut à gauche de l'application
-	3.	Appuyer sur le bouton droit de la sourie sur "Règles de trafic entrant"
-	4.	Appuyer sur "Nouvelle règle..."
-	5.	Choisir "Personalisée" pour le "Type de règle"
-	6.	Appuyer sur "Étendue" à la gauche de la fenêtre
-	7.	Sous la section "À quelles adresses IP locales cette règle s'applique-t-elle?", cocher "Ces adresses IP:"
-	8.	Appuyer sur "Ajouter..."
-	9.	Inscrire l'adresse du réseau à permettre (Par défaut : 10.66.66.0/24)
-	10.	Appuyer sur "OK"
-	11.	Appuyer sur "Nom" à la gauche de la fenêtre
-	12. Donner un nom à la règle (Ex: WireGuard_VPN)
-	13. Appuyer sur Terminer
+2. 	[Configuration du pare-feu Windows 10 pour permettre les connexions entrantes depuis un VPN](Windows10/README_FIREWALL_WINDOWS10.md)
 3.	Il suffit d'activer ou désactiver l'interface sur WireGuard pour se connecter ou se déconnecter du VPN
 	
 ## Problèmes
